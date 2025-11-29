@@ -8,6 +8,8 @@
 
 > **Current Status:** ⚪ Archived (Source Code Only)
 
+<img width="610" height="488" alt="image" src="https://github.com/user-attachments/assets/2ef6bf8d-c861-4141-99a3-406037e3515e" />
+
 
 ## ⚡ The Mission
 Searching for stock footage manually is inefficient. **Pexels Hunter** is an asynchronous Telegram bot that acts as a bridge to the Pexels API, delivering high-resolution creative assets directly to the user's chat interface in milliseconds.
