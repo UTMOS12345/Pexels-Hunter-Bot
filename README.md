@@ -36,3 +36,4 @@ It includes a **Admin Broadcast Module** for mass-communication with the userbas
 
 The system is built on **Aiogram (Python)** to ensure non-blocking performance.
 
+<img width="720" height="865" alt="image" src="https://github.com/user-attachments/assets/f3ea5cc9-b661-4c54-8b34-97beac5c35e0" />
